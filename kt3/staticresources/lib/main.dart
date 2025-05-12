@@ -59,7 +59,7 @@ class ResourcesScreen extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Etot text use CoralPixels',
+              'Etot text use CoralPixels!!!',
               style: TextStyle(fontFamily: 'CoralPixels', fontSize: 18),
             ),
           ],
